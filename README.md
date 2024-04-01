@@ -14,6 +14,4 @@
   first place. So if you're as clever as you can be when you write it, how will
   you ever debug it? - Brian Kernighan
 - We do never guess, when guessing you gonna be wrong. - Bill Kennedy
-
-
-
+- Type is life! - Bill Kennedy
